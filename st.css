@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    color: white;
+    background-color: black;
+    padding: 25px;
+}
+li,ul,h1{
+    display: inline;
+    
+}
+ul{
+    margin-left: 65%;
+}
+
+li{
+    color:grey;
+}
+li:hover{
+    color:white;
+    cursor:pointer;
+}
+input{
+    width:70%;
+    height:40px;
+    margin-left:15%;
+    margin-top: 25px;
+    padding-left:10px ;
+}
+input:hover{
+    color: black;
+}
+.b1{
+    border-color: black;
+    border-width: 2.5px;
+    border-style: solid;
+    width: 220px;
+    display:inline-block
+    
+}
+
+.p1{
+    width:220px;
+    height:220px;
+
+}
+.b1:hover{
+    background-color:black;;
+    color:white;
+}
+.b2{
+    border-color: black;
+    border-width: 2.5px;
+    border-style: solid;
+    width: 220px;
+    height: 220x;
+    display:inline-block;
+}
+
+.p2{
+    width:220px;
+    height:220px;
+
+}
+.b2:hover{
+    background-color:black;;
+    color:white;
+}
+.b3{
+    border-color: black;
+    border-width: 2.5px;
+    border-style: solid;
+    width: 220px;
+    height: 220x;
+    display:inline-block;
+}
+
+.p3{
+    width:220px;
+    height:220px;
+}
+.b3:hover{
+    background-color:black;;
+    color:white;
+}
+.Product{
+    margin-top: 30px;
+    text-align: center;
+    
+}
+.About{
+    text-align: center;
+    margin-top: 20px;
+}
+.contact{
+    background-color:black;
+    color:aliceblue;
+    padding-bottom: 20px;
+}
+.p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
